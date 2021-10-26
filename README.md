@@ -29,12 +29,10 @@
 
 ---
 
-<details>
-  <summary>GitHub Stats</summary>
+  ### GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JayThakkar17&hide=contribs,prs" />
+  <img align="left" alt="JayThakkar17's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JayThakkar17&hide=contribs,prs" />
 
-</details>
 
 [linkedin]: https://www.linkedin.com/in/jay-thakkar-815b54141/
 [instagram]: https://www.instagram.com/ig.jay_thakkar/
