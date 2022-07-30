@@ -1,7 +1,7 @@
 ### Hola, I'm Jay Thakkar 👋
 
 
-- 🔭 I’m currently working on Food Delivery Project.
+- 🔭 I’m currently working in Ahmedabad.
 - 🌱 I’m currently learning everything ... 🤣
 - 👯 I’m looking to collaborate with freelancer
 - ⚡ Fun fact: I love to play cricket.
